@@ -10,5 +10,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Toast.makeText(this, "연습1", Toast.LENGTH_SHORT).show()
+
+
+        Toast.makeText(this, "First branch", Toast.LENGTH_SHORT).show()
+
     }
 }
