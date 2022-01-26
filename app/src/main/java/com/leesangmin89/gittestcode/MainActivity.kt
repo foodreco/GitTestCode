@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, "연습1", Toast.LENGTH_SHORT).show()
 
 
-        Toast.makeText(this, "First branch", Toast.LENGTH_SHORT).show()
+        Toast.makeText(this, "Third branch", Toast.LENGTH_SHORT).show()
 
     }
 }
